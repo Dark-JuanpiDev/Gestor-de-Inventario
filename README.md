@@ -30,8 +30,8 @@ Se necesita la data de la Base de Datos para que el programa pueda extraer los d
 - Por ultimo, debe conectar su IDE con SQL Server y eso seria todo. 
 
 <br>
-You need the data from the database so that the program can extract the data and in turn, display them on screen, for this you need:
-<br>
+You need the data from the database so that the program can extract the data and in turn, display them on screen, for this you need:<br>
+
 - To have SQL Server (Microsoft) installed <b style="color: red">IMPORTANT!</b>
 - To have the data in SQL, for this we have prepared a database restore file called <a href= "https://www.mediafire.com/file/806po1ssiwci0po/Tienda_BK/file" style="text-decoration: none;">Tienda_BK</a> so you can download it and place it in SQL Server.
 - You must change code in the PC name, user and password in the class called "Connect_BD" which has the following code:
