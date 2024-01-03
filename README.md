@@ -9,12 +9,10 @@ se integra un sistema para vender dichos productos. Este proyecto esta conectado
 gestionar los productos, proveedores, categorias, movimientos de ventas, cuentas de usuario, etc.
 <br>
 
-Este proyecto esta enfocado a empressa que se dedican a la venta de productos de computo.
+Este proyecto esta enfocado a empresas que se dedican a la venta de productos de computo.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠️ Tecnologías y IDE utilizados
 
-<img src="./icons/MySQL-Dark.svg" width="48">
-<img src="./icons/Java-Dark.svg" width="48">
-<img src="./icons/icons8-intellij-idea.svg" width="48">
+<img src="./icons/MySQL-Dark.svg" width="48"><img src="./icons/Java-Dark.svg" width="48"><img src="./icons/icons8-intellij-idea.svg" width="48">
