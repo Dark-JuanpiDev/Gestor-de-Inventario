@@ -12,7 +12,9 @@ gestionar los productos, proveedores, categorias, movimientos de ventas, cuentas
 Este proyecto esta enfocado a empresas que se dedican a la venta de productos de computo.
 
 <br>
-Inventory system developed in Java for the management and control of products, tracking of suppliers and also integrates a system to sell these products. This project is connected to a database where we will be able to manage products, suppliers, categories, sales movements, user accounts, etc.
+Inventory system developed in Java for the management and control of products, tracking of suppliers and also integrates
+a system to sell these products. This project is connected to a database where we will be able to manage products, 
+suppliers, categories, sales movements, user accounts, etc.
 
 This project is focused on companies that are dedicated to the sale of computer products.
 
