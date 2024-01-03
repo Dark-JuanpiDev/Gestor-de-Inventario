@@ -1,0 +1,4 @@
+2023/12//01 13:01:50 - INFO - Vendedor: Sanandres Vela, Juanpi; Codigo: 8920; Nombre: Laptop; Cantidad: 2, Precio: 3000.00, Proveedor: ACER
+
+2023/12//01 13:01:50 - INFO - Vendedor: Sanandres Vela, Juanpi; Codigo: 8769; Nombre: HDD 2TB; Cantidad: 1, Precio: 240.00, Proveedor: Wenster Digital
+
