@@ -14,9 +14,8 @@ Este proyecto esta enfocado a empresas que se dedican a la venta de productos de
 <br>
 Inventory system developed in Java for the management and control of products, tracking of suppliers and also integrates
 a system to sell these products. This project is connected to a database where we will be able to manage products, 
-suppliers, categories, sales movements, user accounts, etc.
-
-This project is focused on companies that are dedicated to the sale of computer products.
+suppliers, categories, sales movements, user accounts, etc.<br><br>This project is focused oncompanies that are dedicated 
+to the sale of computer products.
 
 ### 📋 Requisitos (Requirements)
 
@@ -32,6 +31,7 @@ Se necesita la data de la Base de Datos para que el programa pueda extraer los d
 
 <br>
 You need the data from the database so that the program can extract the data and in turn, display them on screen, for this you need:
+<br>
 
 - To have SQL Server (Microsoft) installed <b style="color: red">IMPORTANT!</b>
 - To have the data in SQL, for this we have prepared a database restore file called <a href= "https://www.mediafire.com/file/806po1ssiwci0po/Tienda_BK/file" style="text-decoration: none;">Tienda_BK</a> so you can download it and place it in SQL Server.
