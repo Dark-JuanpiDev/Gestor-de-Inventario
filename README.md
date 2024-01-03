@@ -15,4 +15,4 @@ Este proyecto esta enfocado a empresas que se dedican a la venta de productos de
 
 ### 🛠️ Tecnologías y IDE utilizados
 
-<img src="./icons/MySQL-Dark.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> <img src="./icons/icons8-intellij-idea.svg" width="48">
+<img src="./icons/icons8-microsoft-sql-server.svg" width="48"> <img src="./icons/Java-Dark.svg" width="48"> <img src="./icons/icons8-intellij-idea.svg" width="48">
