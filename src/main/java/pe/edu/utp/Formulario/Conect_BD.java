@@ -8,7 +8,7 @@ import java.sql.*;
 
 public class Conect_BD {
 
-    private static final String URL = "jdbc:sqlserver://DESKTOP-0KNDPJE:1433;database=Tienda;user=Juanpi;password=8282004;TrustServerCertificate=true;";
+    private static final String URL = "jdbc:sqlserver://DESKTOP-0KNDPJE:1433;database=Tienda;user=Juanpi;password=123456;TrustServerCertificate=true;";
 
     public static Connection con;
 
