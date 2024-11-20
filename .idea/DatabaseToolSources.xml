@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseToolSources">
+    <data-source name="CONECT_DATABASE" uuid="066f698d-9c4c-4268-bb02-36a800413fd3" type="MSSQL">
+      <base-info connect-type="DB_DEFAULT" product="Microsoft SQL Server" version="16.00.1105" jdbc-name="Microsoft JDBC Driver 12.2 for SQL Server" jdbc-version="12.2.0.0" />
+      <user-name>Juanpi</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node negative="1">
+            <node kind="database" qname="Tienda" operator="@">
+              <node kind="schema">
+                <name qname="dbo" />
+              </node>
+            </node>
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+      <url>jdbc:sqlserver://DESKTOP-0KNDPJE:1433;database=Tienda</url>
+      <remarks />
+      <vm-options />
+      <driver-info id="Microsoft SQL Server" />
+      <ssh-properties enabled="false" />
+      <jdbc-additional-properties>
+        <property name="encrypt" value="false" />
+        <property name="sendTimeAsDatetime" value="false" />
+      </jdbc-additional-properties>
+      <ssl-config enabled="false">
+        <uuid />
+        <caFile />
+        <clientCertificateFile />
+        <clientKeyFile />
+        <sslMode>REQUIRE</sslMode>
+      </ssl-config>
+    </data-source>
+  </component>
+</project>

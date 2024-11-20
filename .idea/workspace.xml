@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Proyecto_POO:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d72c2ee2-efa9-463c-94f5-2ccdbfd51e22" name="Changes" comment="Proyecto de Gestor de inventario" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Proyecto_POO\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dark-JuanpiDev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5d207f17-05bf-40b1-b67c-055c7c2be132" />
+        <option name="url" value="https://github.com/Dark-JuanpiDev/Gestor-de-Inventario.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2UuiLlyaLagn6oQKs3REDqpXjff" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FormLogin (2).executor": "Run",
+    "Application.FormLogin (3).executor": "Run",
+    "Application.FormLogin.executor": "Run",
+    "Application.FormPrincipalUser.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "full.screen.before.presentation.mode": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Juanpi/IdeaProjects/PROGRAMACIÓN ORIENTADO A OBJETOS/PROYECTO FINAL/Librerias/archivos usados en el ejemplo/mssql-jdbc-12.2.0.jre11.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Juanpi\IdeaProjects\PROGRAMACIÓN ORIENTADO A OBJETOS\PROYECTO FINAL\Proyecto_POO\icons" />
+      <recent name="C:\Users\Juanpi\IdeaProjects\PROGRAMACIÓN ORIENTADO A OBJETOS\PROYECTO FINAL\Proyecto_POO" />
+      <recent name="C:\Users\jsana\IdeaProjects\PROGRAMACIÓN ORIENTADO A OBJETOS\PROYECTO FINAL\Proyecto_POO\src\main\java\pe\edu\utp\imagenes" />
+      <recent name="C:\Users\Juanpi\IdeaProjects\PROGRAMACIÓN ORIENTADO A OBJETOS\PROYECTO FINAL\Proyecto_POO\src\main\java\pe\edu\utp\imagenes" />
+      <recent name="C:\Users\Juanpi\IdeaProjects\PROGRAMACIÓN ORIENTADO A OBJETOS\PROYECTO FINAL\Proyecto_POO\src\main\java\pe\edu\utp\Formulario\Login" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jsana\IdeaProjects\PROGRAMACIÓN ORIENTADO A OBJETOS\PROYECTO FINAL\Proyecto_POO\src\main\resources\TXT" />
+      <recent name="C:\Users\Juanpi\IdeaProjects\PROGRAMACIÓN ORIENTADO A OBJETOS\PROYECTO FINAL\Proyecto_POO\src\main\java\pe\edu\utp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pe.edu.utp.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FormLogin">
+    <configuration name="FormLogin (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.utp.Formulario.iniciarSesion.FormLogin" />
+      <module name="Proyecto_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.utp.Formulario.iniciarSesion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormLogin (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.utp.Formulario.iniciarSesion.FormLogin" />
+      <module name="Proyecto_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.utp.Formulario.iniciarSesion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.utp.Formulario.iniciarSesion.FormLogin" />
+      <module name="Proyecto_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.utp.Formulario.iniciarSesion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormPrincipalUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.utp.Formulario.PrincipalUser.FormPrincipalUser" />
+      <module name="Proyecto_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.utp.Formulario.PrincipalUser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormRegistro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.utp.Formulario.Registrar.FormRegistro" />
+      <module name="Proyecto_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.utp.Formulario.Registrar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FormLogin" />
+        <item itemvalue="Application.FormLogin (3)" />
+        <item itemvalue="Application.FormLogin (2)" />
+        <item itemvalue="Application.FormPrincipalUser" />
+        <item itemvalue="Application.FormRegistro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d72c2ee2-efa9-463c-94f5-2ccdbfd51e22" name="Changes" comment="" />
+      <created>1693795814959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693795814959</updated>
+      <workItem from="1704301068445" duration="415000" />
+      <workItem from="1704727121563" duration="1517000" />
+      <workItem from="1705326608059" duration="633000" />
+      <workItem from="1705433960181" duration="59000" />
+      <workItem from="1706936000366" duration="58000" />
+      <workItem from="1707289254560" duration="545000" />
+      <workItem from="1707290012247" duration="704000" />
+      <workItem from="1712274760112" duration="322000" />
+      <workItem from="1712275107893" duration="386000" />
+      <workItem from="1712275516934" duration="1050000" />
+      <workItem from="1712360606380" duration="719000" />
+      <workItem from="1712381879487" duration="65000" />
+      <workItem from="1712844325442" duration="1220000" />
+      <workItem from="1713446076553" duration="56000" />
+      <workItem from="1731942785080" duration="1587000" />
+      <workItem from="1732068797175" duration="68000" />
+      <workItem from="1732069008631" duration="364000" />
+    </task>
+    <task id="LOCAL-00001" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704261509348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704261509348</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704261858360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704261858360</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704263781652</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704263781652</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704263880586</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704263880586</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704263934041</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704263934041</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704264011709</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704264011709</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704264231521</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704264231521</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704267357310</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704267357310</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704267515200</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704267515200</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704267660106</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704267660106</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704267722883</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704267722883</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1704267811814</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704267811814</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Proyecto de Gestor de inventario">
+      <option name="closed" value="true" />
+      <created>1707290082819</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707290082819</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto de Gestor de inventario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto de Gestor de inventario" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="01c9c5">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="01c9c5" />
+              <option name="initiateTms" value="1693814932045" />
+              <option name="request" value="bg.add(PassContraseña, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 360, 330, -1));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(PassContraseña, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 360, 330, -1));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;PassContraseña.setBounds(40, 360, 330, PassContraseña.getPreferredSize().height);&#10;bg.add(PassContraseña);&#10;```&#10;&#10;Esto establecerá los límites del componente `PassContraseña` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Además, se utiliza `getPreferredSize().height` para obtener la altura preferida del componente `PassContraseña` y establecerla correctamente en los límites. Luego, puedes agregar el componente `PassContraseña` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814935737" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="085c4c">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="085c4c" />
+              <option name="initiateTms" value="1694984169691" />
+              <option name="request" value="How to fix the following error:&#10;Expression expected" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Expression expected&quot; typically occurs when there is a missing or incomplete expression in your code. To fix this error, you need to identify the line where the error is occurring and ensure that it contains a valid expression.&#10;&#10;Here are a few common scenarios and how to fix them:&#10;&#10;1. Missing semicolon: Check if there is a missing semicolon at the end of a statement. In Java, statements are typically terminated with a semicolon. Add a semicolon at the end of the line where the error is occurring.&#10;&#10;2. Incomplete statement: Check if a statement is incomplete, such as a missing method call or incomplete assignment. Make sure that the statement is complete and contains all the necessary components.&#10;&#10;3. Incorrect syntax: Check if there are any syntax errors in the line where the error is occurring. Review the syntax rules of the programming language and ensure that the line follows the correct syntax.&#10;&#10;If you provide the specific line of code where the error is occurring, I can provide more specific guidance on how to fix it." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694984174368" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="0bb98a">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+              <option name="id" value="0bb98a" />
+              <option name="initiateTms" value="1694985574956" />
+              <option name="request" value="ya no sale error pero no se cierra la ventana" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="If the window is not closing even after calling the `dispose()` method, there might be another issue preventing the window from closing properly. Here are a few possible reasons and solutions:&#10;&#10;1. Check if there are any other references to the window: Make sure that there are no other references to the window object that are keeping it alive. If there are other references, you need to ensure that those references are also properly disposed of or set to null.&#10;&#10;2. Verify that the `dispose()` method is being called at the right time: Ensure that the `dispose()` method is being called when you actually want to close the window. For example, if you are calling `dispose()` from a button click event, make sure that the event is triggered correctly and the method is executed.&#10;&#10;3. Check if there are any other event listeners or threads running: If there are any event listeners or threads running in the background, they might be preventing the window from closing. Make sure to stop or terminate any active event listeners or threads before calling `dispose()`.&#10;&#10;4. Consider using `System.exit(0)` to forcefully exit the application: If none of the above solutions work, you can try using `System.exit(0)` to forcefully exit the application. However, be cautious when using this approach, as it terminates the entire Java application, not just the specific window.&#10;&#10;By investigating these possibilities and making the necessary adjustments, you should be able to resolve the issue and successfully close the window." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694985582729" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="18a254">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/PDF.java" />
+                </list>
+              </option>
+              <option name="id" value="18a254" />
+              <option name="initiateTms" value="1697104425750" />
+              <option name="request" value="How to fix the following error:&#10;Cannot resolve method 'add(String)'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Cannot resolve method 'add(String)'&quot; occurs when you are trying to call the `add(String)` method on an object that does not have this method defined.&#10;&#10;To fix this error, you need to identify the object on which you are trying to call the `add(String)` method and make sure that the object has this method defined.&#10;&#10;In the given code, there are multiple places where the `add(String)` method is called. Here are a few possible scenarios and their corresponding solutions:&#10;&#10;1. If you are trying to call the `add(String)` method on a `Paragraph` object, make sure that you have imported the correct `Paragraph` class. There are multiple classes with the name `Paragraph` in different packages, so ensure that you have imported the correct one. The correct import statement should be:&#10;&#10;   ```java&#10;   import com.itextpdf.layout.element.Paragraph;&#10;   ```&#10;&#10;2. If you are trying to call the `add(String)` method on a `Cell` object, make sure that you have imported the correct `Cell` class. The correct import statement should be:&#10;&#10;   ```java&#10;   import com.itextpdf.layout.element.Cell;&#10;   ```&#10;&#10;3. If you are trying to call the `add(String)` method on a different object, check the documentation or the class definition of that object to see if it has a method with the name `add` that accepts a `String` parameter. If not, you may need to use a different method or find an alternative approach to achieve your desired functionality.&#10;&#10;Remember to import the necessary classes at the top of your Java file and adjust the code according to your specific requirements and the version of iTextPDF you are using." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1697104437577" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/PDF.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="19d5a0">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/FormPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="19d5a0" />
+              <option name="initiateTms" value="1693815702885" />
+              <option name="request" value="que fncionalidades necesarias debe tener un programa de gestor de inventario?}" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Un programa de gestor de inventario debe tener las siguientes funcionalidades necesarias:&#10;&#10;1. Registro de productos: Permite agregar nuevos productos al inventario, incluyendo información como nombre, descripción, categoría, precio, cantidad disponible, etc.&#10;&#10;2. Búsqueda y consulta de productos: Permite buscar y consultar información de productos existentes en el inventario, ya sea por nombre, categoría, código de barras u otros criterios de búsqueda.&#10;&#10;3. Actualización de información de productos: Permite modificar la información de productos existentes en el inventario, como el precio, la cantidad disponible, la descripción, etc.&#10;&#10;4. Eliminación de productos: Permite eliminar productos del inventario cuando ya no están disponibles o son obsoletos.&#10;&#10;5. Control de stock: Permite llevar un seguimiento de la cantidad disponible de cada producto en el inventario, actualizando automáticamente el stock cuando se realizan ventas o compras.&#10;&#10;6. Generación de informes y reportes: Permite generar informes y reportes sobre el estado del inventario, como el nivel de stock, los productos más vendidos, los productos con baja rotación, etc.&#10;&#10;7. Gestión de proveedores: Permite registrar y gestionar la información de los proveedores de los productos, incluyendo datos de contacto, historial de compras, precios acordados, etc.&#10;&#10;8. Control de movimientos de inventario: Permite registrar y rastrear los movimientos de entrada y salida de productos en el inventario, como compras, ventas, devoluciones, ajustes de stock, etc.&#10;&#10;9. Alertas y notificaciones: Permite configurar alertas y notificaciones para recibir avisos cuando el stock de un producto esté bajo, cuando se agoten productos, cuando haya vencimientos próximos, etc.&#10;&#10;10. Seguridad y control de acceso: Permite gestionar usuarios y roles de acceso al sistema, garantizando que solo las personas autorizadas puedan acceder y realizar cambios en el inventario.&#10;&#10;Estas son algunas de las funcionalidades básicas que un programa de gestor de inventario debería tener. Sin embargo, dependiendo de las necesidades específicas de cada negocio, pueden existir otras funcionalidades adicionales que sean relevantes." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693815722364" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/FormPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="1f2489">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+              <option name="id" value="1f2489" />
+              <option name="initiateTms" value="1694985586692" />
+              <option name="request" value="en español" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Si la ventana no se cierra incluso después de llamar al método `dispose()`, puede haber otro problema que impida que la ventana se cierre correctamente. Aquí hay algunas posibles razones y soluciones:&#10;&#10;1. Verifica si hay otras referencias a la ventana: Asegúrate de que no haya otras referencias al objeto de la ventana que lo mantengan activo. Si hay otras referencias, debes asegurarte de que esas referencias también se eliminen correctamente o se establezcan en `null`.&#10;&#10;2. Verifica que el método `dispose()` se llame en el momento adecuado: Asegúrate de que el método `dispose()` se llame cuando realmente deseas cerrar la ventana. Por ejemplo, si estás llamando a `dispose()` desde un evento de clic de un botón, asegúrate de que el evento se active correctamente y se ejecute el método.&#10;&#10;3. Verifica si hay otros escuchadores de eventos o hilos en ejecución: Si hay otros escuchadores de eventos o hilos en ejecución en segundo plano, podrían estar impidiendo que la ventana se cierre. Asegúrate de detener o finalizar cualquier escuchador de eventos o hilo activo antes de llamar a `dispose()`.&#10;&#10;4. Considera utilizar `System.exit(0)` para salir forzosamente de la aplicación: Si ninguna de las soluciones anteriores funciona, puedes intentar utilizar `System.exit(0)` para salir forzosamente de la aplicación. Sin embargo, ten cuidado al utilizar este enfoque, ya que termina toda la aplicación de Java, no solo la ventana específica.&#10;&#10;Investigando estas posibilidades y realizando los ajustes necesarios, deberías poder resolver el problema y cerrar la ventana correctamente." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694985594890" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="23b003">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="23b003" />
+              <option name="initiateTms" value="1693814883271" />
+              <option name="request" value="bg.add(TextCode, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 280, 310, -1));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(TextCode, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 280, 310, -1));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;TextCode.setBounds(40, 280, 310, TextCode.getPreferredSize().height);&#10;bg.add(TextCode);&#10;```&#10;&#10;Esto establecerá los límites del componente `TextCode` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Además, se utiliza `getPreferredSize().height` para obtener la altura preferida del componente `TextCode` y establecerla correctamente en los límites. Luego, puedes agregar el componente `TextCode` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814893377" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="2897d4">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="2897d4" />
+              <option name="initiateTms" value="1693814809325" />
+              <option name="request" value="bg.add(seleccion, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 200, -1, -1));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(seleccion, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 200, -1, -1));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;seleccion.setBounds(190, 200, seleccion.getPreferredSize().width, seleccion.getPreferredSize().height);&#10;bg.add(seleccion);&#10;```&#10;&#10;Esto establecerá los límites del componente `seleccion` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Además, se utiliza `getPreferredSize().width` y `getPreferredSize().height` para obtener el tamaño preferido del componente `seleccion` y establecerlo correctamente en los límites. Luego, puedes agregar el componente `seleccion` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814818478" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="320f41">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="320f41" />
+              <option name="initiateTms" value="1694984024915" />
+              <option name="request" value="hazlo para intellij ideas" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="En IntelliJ IDEA, puedes solucionar el error &quot;non-static variable this cannot be referenced from a static context&quot; de manera similar a como se mencionó anteriormente. Sin embargo, IntelliJ IDEA ofrece una funcionalidad adicional llamada &quot;Extract Method&quot; que puede facilitar el proceso de solución del error.&#10;&#10;Aquí tienes los pasos para solucionar el error en IntelliJ IDEA utilizando &quot;Extract Method&quot;:&#10;&#10;1. Coloca el cursor en la línea que contiene `this.dispose();` y presiona `Ctrl + Alt + M` (o haz clic derecho y selecciona &quot;Refactor&quot; -&gt; &quot;Extract&quot; -&gt; &quot;Method&quot;) para abrir el diálogo &quot;Extract Method&quot;.&#10;&#10;2. En el diálogo &quot;Extract Method&quot;, ingresa un nombre para el nuevo método, por ejemplo, `closeWindow`, y haz clic en &quot;OK&quot;.&#10;&#10;3. IntelliJ IDEA creará un nuevo método con el código seleccionado y reemplazará la línea original con una llamada al nuevo método. El código se verá así:&#10;&#10;   ```java&#10;   public static boolean IngresarBtn(String texto1, String texto2) throws Exception {&#10;       // ...&#10;&#10;       if (checkCredentials(texto1, texto2)) {&#10;           // ...&#10;&#10;           closeWindow();&#10;       } else {&#10;           // ...&#10;       }&#10;&#10;       return true;&#10;   }&#10;&#10;   private static void closeWindow() {&#10;       JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(notasInterfaz);&#10;       frame.dispose();&#10;   }&#10;   ```&#10;&#10;4. Ahora, puedes utilizar el nuevo método `closeWindow()` para cerrar la ventana actual sin el error de contexto estático.&#10;&#10;Recuerda ajustar el código según la estructura de tu aplicación y asegurarte de que `notasInterfaz` sea el componente principal de la ventana que deseas cerrar." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694984031996" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="367135">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="367135" />
+              <option name="initiateTms" value="1694983967499" />
+              <option name="request" value="de este: this.diapose();&#10;me sale este error: non-static variable this cannot be referenced from a static context" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="El error &quot;non-static variable this cannot be referenced from a static context&quot; ocurre cuando intentas acceder a una variable o método no estático desde un contexto estático. En este caso, estás intentando llamar al método `dispose()` utilizando `this` dentro de un método estático.&#10;&#10;La solución a este error depende de lo que estés intentando lograr con el método `dispose()`. Si estás intentando cerrar la ventana actual, puedes utilizar la clase `javax.swing.JFrame` para obtener la instancia de la ventana y llamar al método `dispose()` en esa instancia.&#10;&#10;Aquí tienes un ejemplo de cómo modificar el código para solucionar el error:&#10;&#10;```java&#10;public static boolean IngresarBtn(String texto1, String texto2) throws Exception {&#10;    // ...&#10;&#10;    if (checkCredentials(texto1, texto2)) {&#10;        // ...&#10;&#10;        // Cerrar la ventana actual&#10;        JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(notasInterfaz);&#10;        frame.dispose();&#10;    } else {&#10;        // ...&#10;    }&#10;&#10;    return true;&#10;}&#10;```&#10;&#10;En este ejemplo, utilizamos `SwingUtilities.getWindowAncestor()` para obtener la instancia de la ventana actual a partir de un componente (`notasInterfaz` en este caso). Luego, convertimos esa instancia a `JFrame` y llamamos al método `dispose()` para cerrar la ventana.&#10;&#10;Recuerda que esta solución asume que `notasInterfaz` es el componente principal de la ventana que deseas cerrar. Asegúrate de ajustar el código según la estructura de tu aplicación." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694983978312" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="491b44">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="491b44" />
+              <option name="initiateTms" value="1693814645399" />
+              <option name="request" value="bg.add(Header, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 800, 40)); y esto como lo arreglo" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(Header, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 800, 40));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;Header.setBounds(0, 0, 800, 40);&#10;bg.add(Header);&#10;```&#10;&#10;Esto establecerá los límites del panel `Header` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Luego, puedes agregar el panel `Header` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814651896" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="494b38">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/PDF.java" />
+                </list>
+              </option>
+              <option name="id" value="494b38" />
+              <option name="initiateTms" value="1697102999195" />
+              <option name="request" value="How to fix the following error:&#10;'LineSeparator(com.itextpdf.kernel.pdf.canvas.draw.ILineDrawer)' in 'com.itextpdf.layout.element.LineSeparator' cannot be applied to '()'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;LineSeparator(com.itextpdf.kernel.pdf.canvas.draw.ILineDrawer) in com.itextpdf.layout.element.LineSeparator cannot be applied to ()&quot; occurs because the `LineSeparator` class in iTextPDF requires an `ILineDrawer` object as a parameter in its constructor. However, in your code, you are trying to create a `LineSeparator` object without providing the required `ILineDrawer` parameter.&#10;&#10;To fix this error, you need to create an `ILineDrawer` object and pass it as a parameter to the `LineSeparator` constructor. Here's an example:&#10;&#10;```java&#10;import com.itextpdf.kernel.pdf.canvas.draw.SolidLine;&#10;&#10;// ...&#10;&#10;// Create an ILineDrawer object&#10;ILineDrawer lineDrawer = new SolidLine();&#10;&#10;// Create a LineSeparator object with the ILineDrawer parameter&#10;LineSeparator separator = new LineSeparator(lineDrawer);&#10;```&#10;&#10;In this example, we create an `ILineDrawer` object using the `SolidLine` class, which is a built-in implementation of `ILineDrawer`. Then, we pass this `ILineDrawer` object as a parameter to the `LineSeparator` constructor.&#10;&#10;Make sure to import the necessary classes (`com.itextpdf.kernel.pdf.canvas.draw.SolidLine` and `com.itextpdf.kernel.pdf.canvas.draw.ILineDrawer`) at the top of your Java file.&#10;&#10;Adjust the code according to your specific requirements and the version of iTextPDF you are using." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1697103006972" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/PDF.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="49dd9a">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+              <option name="id" value="49dd9a" />
+              <option name="initiateTms" value="1695024025292" />
+              <option name="request" value="como arreglo este codigo: Label imagen = new JLabel();&#10;        imagen.setIcon(new ImageIcon(getClass().getResource(&quot;logo_utp.png&quot;)));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para corregir el código y evitar el error &quot;NullPointerException&quot; que puede ocurrir cuando `getResource()` devuelve `null`, puedes seguir estos pasos:&#10;&#10;1. Verifica la ubicación del archivo de recursos: Asegúrate de que el archivo `logo_utp.png` esté ubicado en el directorio correcto en relación con la clase en la que estás llamando `getResource()`. Por defecto, `getResource()` busca el archivo de recursos en el mismo paquete que la clase. Si el archivo se encuentra en un directorio diferente, es posible que debas ajustar la ruta en consecuencia.&#10;&#10;2. Utiliza una ruta absoluta para el archivo de recursos: En lugar de confiar en la ubicación relativa del archivo de recursos, puedes utilizar una ruta absoluta para asegurarte de que se encuentre correctamente. Puedes obtener la ruta absoluta utilizando `getClass().getResource(&quot;/ruta/al/archivo/logo_utp.png&quot;)`. Asegúrate de reemplazar &quot;/ruta/al/archivo/&quot; con la ruta real del archivo en tu proyecto.&#10;&#10;Aquí tienes el código corregido:&#10;&#10;```java&#10;Label imagen = new JLabel();&#10;URL resourceURL = getClass().getResource(&quot;/ruta/al/archivo/logo_utp.png&quot;);&#10;if (resourceURL != null) {&#10;    imagen.setIcon(new ImageIcon(resourceURL));&#10;} else {&#10;    System.out.println(&quot;No se pudo encontrar el archivo de imagen&quot;);&#10;}&#10;```&#10;&#10;Asegúrate de reemplazar &quot;/ruta/al/archivo/&quot; con la ruta real del archivo en tu proyecto. Además, puedes agregar un mensaje de error o una lógica adicional en caso de que `getResource()` devuelva `null` para manejar la situación de manera adecuada." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695024041776" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="541cf9">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="541cf9" />
+              <option name="initiateTms" value="1693814702888" />
+              <option name="request" value="bg.add(Logo, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 80, -1, -1));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(Logo, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 80, -1, -1));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;Logo.setBounds(150, 80, Logo.getPreferredSize().width, Logo.getPreferredSize().height);&#10;bg.add(Logo);&#10;```&#10;&#10;Esto establecerá los límites del componente `Logo` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Además, se utiliza `getPreferredSize().width` y `getPreferredSize().height` para obtener el tamaño preferido del componente `Logo` y establecerlo correctamente en los límites. Luego, puedes agregar el componente `Logo` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814710325" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="56fee0">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="56fee0" />
+              <option name="initiateTms" value="1694985172692" />
+              <option name="request" value="que coloco en esta función: dispose()" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="La función `dispose()` generalmente se utiliza para liberar los recursos asociados a un objeto, como una ventana o un componente gráfico. En el contexto de tu código, la función `dispose()` se llama en la clase `FormLogin` y se utiliza para cerrar la ventana actual.&#10;&#10;Aquí tienes un ejemplo de cómo podrías implementar la función `dispose()` en la clase `FormLogin`:&#10;&#10;```java&#10;public class FormLogin {&#10;    // ...&#10;&#10;    public void dispose() {&#10;        JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(this);&#10;        frame.dispose();&#10;    }&#10;&#10;    // Resto del código de la clase FormLogin&#10;}&#10;```&#10;&#10;En este ejemplo, la función `dispose()` obtiene la referencia al `JFrame` que contiene la ventana actual utilizando `SwingUtilities.getWindowAncestor(this)`. Luego, llama al método `dispose()` en el objeto `frame` para cerrar la ventana.&#10;&#10;Recuerda que esta implementación asume que `FormLogin` es una subclase de `javax.swing.JFrame` y que estás utilizando el método `SwingUtilities.getWindowAncestor()` correctamente. Asegúrate de importar las clases necesarias y de que el contexto sea el adecuado para utilizar esta función." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694985180472" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="5c37d6">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="5c37d6" />
+              <option name="initiateTms" value="1693814588782" />
+              <option name="request" value="como arreglar esto para intellij idea: bg.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar el código para IntelliJ IDEA, puedes reemplazar la línea:&#10;&#10;```java&#10;bg.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());&#10;```&#10;&#10;con:&#10;&#10;```java&#10;bg.setLayout(null);&#10;```&#10;&#10;Esto establecerá el diseño del panel `bg` como nulo, lo que te permitirá posicionar los componentes manualmente utilizando coordenadas absolutas." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814594023" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="632fc8">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="632fc8" />
+              <option name="initiateTms" value="1694984948548" />
+              <option name="request" value="que coloco aqui: public static class NestedClass {&#10;           // ...&#10;       }" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Dentro de la clase `NestedClass`, puedes colocar cualquier código relevante para esa clase en particular. Esto puede incluir variables, métodos y constructores.&#10;&#10;Aquí tienes un ejemplo de cómo podrías definir la clase `NestedClass` con algunos métodos y una variable:&#10;&#10;```java&#10;public class FormLogin {&#10;    // ...&#10;&#10;    public static class NestedClass {&#10;        private int nestedVariable;&#10;&#10;        public NestedClass() {&#10;            // Constructor de la clase NestedClass&#10;        }&#10;&#10;        public void nestedMethod() {&#10;            // Método de la clase NestedClass&#10;        }&#10;&#10;        public int getNestedVariable" />
+              <option name="responseTms" value="1694984952435" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="635b0a">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+              <option name="id" value="635b0a" />
+              <option name="initiateTms" value="1695015099563" />
+              <option name="request" value="How to fix the following error:&#10;Cannot resolve symbol 'RoundedTextField'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Cannot resolve symbol 'RoundedTextField'&quot; indicates that the compiler cannot find a class or symbol named 'RoundedTextField'. This typically occurs when the required class or symbol is not imported or is not available in the current scope.&#10;&#10;To fix this error, you can follow these steps:&#10;&#10;1. Check if the required class is imported: Make sure that you have imported the class `RoundedTextField` in your code. Look for an import statement at the top of your Java file that looks like this:&#10;&#10;   ```java&#10;   import pe.edu.utp.Formulario.RoundedTextField;&#10;   ```&#10;&#10;   If the import statement is missing, add it to the top of your file.&#10;&#10;2. Verify that the required class is available: Ensure that the class `RoundedTextField` is available in your project's dependencies or classpath. If you are using a third-party library or custom class, make sure that it is properly included in your project.&#10;&#10;3. Check for typos or naming inconsistencies: Double-check the spelling and capitalization of the class name `RoundedTextField`. Make sure it matches the actual class name in your code.&#10;&#10;4. Build or rebuild your project: If you have recently added the `RoundedTextField` class or made changes to your project's dependencies, try rebuilding your project to refresh the classpath and resolve any compilation errors.&#10;&#10;By following these steps, you should be able to resolve the &quot;Cannot resolve symbol 'RoundedTextField'&quot; error and successfully reference the `RoundedTextField` class in your code." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695015110631" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="6d6d54">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="6d6d54" />
+              <option name="initiateTms" value="1693814899517" />
+              <option name="request" value="bg.add(separadorCODE, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 300, 330, -1));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(separadorCODE, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 300, 330, -1));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;separadorCODE.setBounds(40, 300, 330, separadorCODE.getPreferredSize().height);&#10;bg.add(separadorCODE);&#10;```&#10;&#10;Esto establecerá los límites del componente `separadorCODE` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Además, se utiliza `getPreferredSize().height` para obtener la altura preferida del componente `separadorCODE` y establecerla correctamente en los límites. Luego, puedes agregar el componente `separadorCODE` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814907921" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="743889">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="743889" />
+              <option name="initiateTms" value="1694984367836" />
+              <option name="request" value="me sigue saliendo el mismo error" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Si sigues obteniendo el mismo error &quot;Se esperaba una expresión&quot; en la línea `JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(FromPrincipal);`, es posible que haya un problema adicional en tu código. Aquí hay algunas posibles soluciones que puedes intentar:&#10;&#10;1. Verifica que la clase `FromPrincipal` esté importada correctamente en tu archivo. Asegúrate de tener la siguiente línea de importación al comienzo de tu archivo:&#10;&#10;   ```java&#10;   import pe.edu.utp.Formulario.Principal.FromPrincipal;&#10;   ```&#10;&#10;2. Asegúrate de que la clase `FromPrincipal` sea una subclase de `javax.swing.JFrame`. Si no es así, es posible que no puedas utilizar `SwingUtilities.getWindowAncestor()` en esa clase. En ese caso, deberás encontrar una forma alternativa de obtener la referencia al `JFrame` que deseas cerrar.&#10;&#10;3. Si estás llamando al método `dispose()` desde un método estático, es posible que no puedas acceder directamente a instancias de objetos no estáticos. En ese caso, puedes intentar pasar la instancia de `FromPrincipal` como un parámetro al método estático que contiene la llamada a `dispose()`. Por ejemplo:&#10;&#10;   ```java&#10;   public static void closeWindow(FromPrincipal fromPrincipal) {&#10;       JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(fromPrincipal);&#10;       frame.dispose();&#10;   }&#10;   ```&#10;&#10;   Luego, desde tu método estático, puedes llamar a `closeWindow()` pasando la instancia de `FromPrincipal`:&#10;&#10;   ```java&#10;   closeWindow(fromPrincipal);&#10;   ```&#10;&#10;Si ninguna de estas soluciones resuelve el problema, sería útil ver más contexto y código relevante para poder brindarte una solución más precisa." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694984379170" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="767552">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="767552" />
+              <option name="initiateTms" value="1693814946703" />
+              <option name="request" value="bg.add(separadorCONTRASEÑA, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 380, 330, -1));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(separadorCONTRASEÑA, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 380, 330, -1));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;separadorCONTRASEÑA.setBounds(40, 380, 330, separadorCONTRASEÑA.getPreferredSize().height);&#10;bg.add(separadorCONTRASEÑA);&#10;```&#10;&#10;Esto establecerá los límites del componente `separadorCONTRASEÑA` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Además, se utiliza `getPreferredSize().height` para obtener la altura preferida del componente `separadorCONTRASEÑA` y establecerla correctamente en los límites. Luego, puedes agregar el componente `separadorCONTRASEÑA` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814955079" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="79942f">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+              <option name="id" value="79942f" />
+              <option name="initiateTms" value="1695024126098" />
+              <option name="request" value="How to fix the following error:&#10;Cannot resolve constructor 'ImageIcon(URL)'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Cannot resolve constructor 'ImageIcon(URL)'&quot; occurs when the constructor of the `ImageIcon` class is unable to find a matching constructor that accepts a `URL` parameter. This can happen if you are using an outdated version of the `ImageIcon` class or if there is a mismatch in the constructor arguments.&#10;&#10;To fix this error, you can try the following solutions:&#10;&#10;1. Use the `ImageIO.read()` method to load the image as a `BufferedImage` and then create an `ImageIcon` from it:&#10;&#10;   ```java&#10;   import javax.imageio.ImageIO;&#10;   import java.awt.image.BufferedImage;&#10;   import java.io.IOException;&#10;   import java.net.URL;&#10;&#10;   // ...&#10;&#10;   URL resourceURL = getClass().getResource(&quot;logo_utp.png&quot;);&#10;   if (resourceURL != null) {&#10;       try {&#10;           BufferedImage image = ImageIO.read(resourceURL);&#10;           ImageIcon icon = new ImageIcon(image);&#10;           imagen.setIcon(icon);&#10;       } catch (IOException e) {&#10;           System.out.println(&quot;Error loading image: &quot; + e.getMessage());&#10;       }&#10;   } else {&#10;       System.out.println(&quot;No se pudo encontrar el archivo de imagen&quot;);&#10;   }&#10;   ```&#10;&#10;   This code uses the `ImageIO.read()` method to read the image from the `URL` and create a `BufferedImage`. Then, it creates an `ImageIcon` from the `BufferedImage` and sets it as the icon for the `imagen` label.&#10;&#10;2. If you are using an older version of Java or the `ImageIO` class is not available, you can try using the `Toolkit` class to create the `ImageIcon`:&#10;&#10;   ```java&#10;   import java.awt.Toolkit;&#10;&#10;   // ...&#10;&#10;   URL resourceURL = getClass().getResource(&quot;logo_utp.png&quot;);&#10;   if (resourceURL != null) {&#10;       ImageIcon icon = new ImageIcon(Toolkit.getDefaultToolkit().getImage(resourceURL));&#10;       imagen.setIcon(icon);&#10;   } else {&#10;       System.out.println(&quot;No se pudo encontrar el archivo de imagen&quot;);&#10;   }&#10;   ```&#10;&#10;   This code uses the `Toolkit.getDefaultToolkit().getImage()` method to create an `Image` object from the `URL`, and then passes it to the `ImageIcon` constructor.&#10;&#10;Try one of these solutions based on your Java version and availability of classes. This should resolve the error and allow you to create the `ImageIcon` successfully." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695024139528" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="7b235f">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/PDF.java" />
+                </list>
+              </option>
+              <option name="id" value="7b235f" />
+              <option name="initiateTms" value="1697104371585" />
+              <option name="request" value="How to fix the following error:&#10;Cannot resolve method 'add(String)'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Cannot resolve method 'add(String)'&quot; occurs when you are trying to call the `add(String)` method on an object that does not have this method defined. &#10;&#10;To fix this error, you need to identify the object on which you are trying to call the `add(String)` method and make sure that the object has this method defined. &#10;&#10;In the given code, there are multiple places where the `add(String)` method is called. Here are a few possible scenarios and their corresponding solutions:&#10;&#10;1. If you are trying to call the `add(String)` method on a `Paragraph` object, make sure that you have imported the correct `Paragraph` class. There are multiple classes with the name `Paragraph` in different packages, so ensure that you have imported the correct one. The correct import statement should be:&#10;&#10;   ```java&#10;   import com.itextpdf.layout.element.Paragraph;&#10;   ```&#10;&#10;2. If you are trying to call the `add(String)` method on a `Cell` object, make sure that you have imported the correct `Cell` class. The correct import statement should be:&#10;&#10;   ```java&#10;   import com.itextpdf.layout.element.Cell;&#10;   ```&#10;&#10;3. If you are trying to call the `add(String)` method on a different object, check the documentation or the class definition of that object to see if it has a method with the name `add` that accepts a `String` parameter. If not, you may need to use a different method or find an alternative approach to achieve your desired functionality.&#10;&#10;Remember to import the necessary classes at the top of your Java file and adjust the code according to your specific requirements and the version of iTextPDF you are using." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1697104378131" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/PDF.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="84c6dc">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="84c6dc" />
+              <option name="initiateTms" value="1694984907933" />
+              <option name="request" value="How to fix the following error:&#10;'pe.edu.utp.Formulario.Login.FormLogin' is not an enclosing class" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;'pe.edu.utp.Formulario.Login.FormLogin' is not an enclosing class&quot; occurs when you try to reference the enclosing class (`FormLogin`) from a nested class or a static context where it is not directly accessible.&#10;&#10;To fix this error, you have a few options:&#10;&#10;1. Move the nested class to a separate file: If the nested class does not rely on the enclosing class and can exist independently, you can move it to its own separate file. This way, you can access it without needing the enclosing class.&#10;&#10;2. Make the nested class static: If the nested class does not need to access the instance variables or methods of the enclosing class, you can make it a static nested class. This allows you to access it without an instance of the enclosing class. Here's an example:&#10;&#10;   ```java&#10;   public class FormLogin {&#10;       // ...&#10;&#10;       public static class NestedClass {&#10;           // ...&#10;       }&#10;   }&#10;   ```&#10;&#10;   By making the nested class static, you can access it using `FormLogin.NestedClass` without needing an instance of `FormLogin`.&#10;&#10;3. Adjust the code logic: If the nested class needs to access the instance variables or methods of the enclosing class, you may need to reconsider the code logic. Determine if the nested class should be a separate class or if it can be refactored to avoid the need for accessing the enclosing class.&#10;&#10;Choose the option that best suits your requirements and adjust your code accordingly to fix the error." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694984915402" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="95079c">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Principal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="95079c" />
+              <option name="initiateTms" value="1694984223851" />
+              <option name="request" value="El error aparece en el FromPrincipal: JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(FromPrincipal);&#10;        frame.dispose();" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="El error &quot;Se esperaba una expresión&quot; en la línea `JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(FromPrincipal);` indica que hay un problema con la expresión `FromPrincipal` en ese contexto.&#10;&#10;Para solucionar este error, necesitas asegurarte de que `FromPrincipal` sea una instancia válida de la clase `FromPrincipal` y no el nombre de la clase en sí. &#10;&#10;Aquí tienes una posible solución:&#10;&#10;1. Asegúrate de que `FromPrincipal` sea una instancia válida de la clase `FromPrincipal`. Si `FromPrincipal` es una clase, necesitas crear una instancia de esa clase utilizando el operador `new`. Por ejemplo:&#10;&#10;   ```java&#10;   FromPrincipal fromPrincipal = new FromPrincipal();&#10;   ```&#10;&#10;2. Luego, utiliza la instancia `fromPrincipal` en lugar de `FromPrincipal` en la línea problemática:&#10;&#10;   ```java&#10;   JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(fromPrincipal);&#10;   frame.dispose();&#10;   ```&#10;&#10;Al hacer estos cambios, deberías poder obtener la instancia correcta de `FromPrincipal` y llamar al método `dispose()` en el objeto `frame` sin el error &quot;Se esperaba una expresión&quot;." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694984232773" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Principal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="ad3b63">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+              <option name="id" value="ad3b63" />
+              <option name="initiateTms" value="1695024859431" />
+              <option name="request" value="ya verifique la ubicacion del archivo y sigue el mismo error" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Si has verificado la ubicación del archivo y aún así la imagen no se muestra correctamente, es posible que haya un problema con la carga o visualización de la imagen. Aquí hay algunas soluciones adicionales que puedes intentar:&#10;&#10;1. Verifica el tipo de archivo de imagen: Asegúrate de que el archivo `logo_utp.png` sea realmente un archivo de imagen válido en el formato esperado (por ejemplo, PNG). Si el archivo está dañado o no es compatible con el formato de imagen, es posible que no se pueda cargar correctamente.&#10;&#10;2. Verifica la ruta relativa o absoluta al archivo de imagen: Si el archivo de imagen está en un directorio diferente al de la clase en la que estás llamando `getResource()`, asegúrate de proporcionar la ruta correcta al archivo de imagen. Puedes utilizar rutas relativas o absolutas según sea necesario. Si estás utilizando una ruta relativa, asegúrate de que la ruta sea correcta en relación con la ubicación de la clase.&#10;&#10;3. Verifica si el archivo de imagen se encuentra en un JAR o en un archivo comprimido: Si estás ejecutando tu aplicación desde un archivo JAR o desde un archivo comprimido, es posible que debas utilizar `getResourceAsStream()` en lugar de `getResource()` para cargar el archivo de imagen. Aquí tienes un ejemplo:&#10;&#10;   ```java&#10;   InputStream inputStream = getClass().getResourceAsStream(&quot;logo_utp.png&quot;);&#10;   if (inputStream != null) {&#10;       try {&#10;           BufferedImage image = ImageIO.read(inputStream);&#10;           ImageIcon icon = new ImageIcon(image);&#10;           imagen.setIcon(icon);&#10;       } catch (IOException e) {&#10;           System.out.println(&quot;Error loading image: &quot; + e.getMessage());&#10;       }&#10;   } else {&#10;       System.out.println(&quot;No se pudo encontrar el archivo de imagen&quot;);&#10;   }&#10;   ```&#10;&#10;   Esta solución utiliza `getResourceAsStream()` para obtener un flujo de entrada (`InputStream`) del archivo de imagen y luego utiliza `ImageIO.read()` para leer el flujo de entrada y crear una `BufferedImage`. A continuación, se crea un `ImageIcon` a partir de la `BufferedImage` y se establece como icono de la etiqueta `imagen`.&#10;&#10;Si ninguna de estas soluciones resuelve el problema, sería útil proporcionar más detalles sobre la estructura de tu proyecto y cómo estás utilizando el código para que pueda brindarte una solución más específica." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695024874679" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="addec0">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="addec0" />
+              <option name="initiateTms" value="1693814829205" />
+              <option name="request" value="bg.add(Codigo, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 250, 340, -1));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(Codigo, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 250, 340, -1));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;Codigo.setBounds(40, 250, 340, Codigo.getPreferredSize().height);&#10;bg.add(Codigo);&#10;```&#10;&#10;Esto establecerá los límites del componente `Codigo` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Además, se utiliza `getPreferredSize().height` para obtener la altura preferida del componente `Codigo` y establecerla correctamente en los límites. Luego, puedes agregar el componente `Codigo` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814833085" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="af098f">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+              <option name="id" value="af098f" />
+              <option name="initiateTms" value="1695023983296" />
+              <option name="request" value="How to fix the following error:&#10;Argument 'getClass().getResource(&quot;logo_utp.png&quot;)' might be null" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Argument 'getClass().getResource(&quot;logo_utp.png&quot;)' might be null&quot; occurs when the `getResource()` method returns `null` because it cannot find the specified resource. This can happen if the resource file is not located in the expected location or if the resource file is not included in the project's build path.&#10;&#10;To fix this error, you can follow these steps:&#10;&#10;1. Verify the location of the resource file: Make sure that the `logo_utp.png` file is located in the correct directory relative to the class file where you are calling `getResource()`. By default, `getResource()` looks for the resource file in the same package as the class file. If the file is located in a different directory, you may need to adjust the path accordingly.&#10;&#10;2. Check the file name and extension: Ensure that the file name and extension are correct. Make sure that the file is named exactly `logo_utp.png` and that the file extension is `.png`. The file name and extension are case-sensitive, so ensure that the case matches exactly.&#10;&#10;3. Verify that the resource file is included in the build path: If the resource file is not included in the project's build path, it will not be accessible at runtime. Make sure that the `logo_utp.png` file is included in your project's resources or assets folder and that it is being copied to the output directory during the build process.&#10;&#10;4. Check the resource file's properties: Right-click on the `logo_utp.png` file in your project's file explorer and go to its properties. Ensure that the file is marked as a resource or asset file and that it is included in the build process.&#10;&#10;By following these steps, you should be able to fix the error and ensure that the `getResource()` method can find the `logo_utp.png` file successfully." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695023992639" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="b3a487">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+              <option name="id" value="b3a487" />
+              <option name="initiateTms" value="1694985473515" />
+              <option name="request" value="me sale Excepcion: cannot invoke &quot;javax.swing.JFrame.dispose()&quot; because &quot;frame&quot; is null" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Excepcion: cannot invoke 'javax.swing.JFrame.dispose()' because 'frame' is null&quot; indicates that the `frame` object is null when you try to invoke the `dispose()` method on it. This means that the `frame` object has not been properly initialized or assigned a value.&#10;&#10;To fix this error, you need to ensure that the `frame` object is properly initialized before calling the `dispose()` method. Here's a possible solution:&#10;&#10;1. Check if the `frame` object is null before calling `dispose()`. If it is null, you can skip the `dispose()` method to avoid the error. Here's an example:&#10;&#10;   ```java&#10;   public void dispose() {&#10;       JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(this);&#10;       if (frame != null) {&#10;           frame.dispose();&#10;       }&#10;   }&#10;   ```&#10;&#10;   By adding the null check, you prevent the `dispose()` method from being called when the `frame` object is null.&#10;&#10;2. Ensure that the `FormLogin` class is being used as a `JFrame` or a subclass of `JFrame`. If `FormLogin` is not a `JFrame` or a subclass of it, you may need to review your code and make sure you are using the correct class for the `SwingUtilities.getWindowAncestor()` method.&#10;&#10;If the issue persists after applying these changes, please provide more context or the relevant code so that I can assist you further." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694985479724" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="b6e39c">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="b6e39c" />
+              <option name="initiateTms" value="1695012340106" />
+              <option name="request" value="How to fix the following error:&#10;'pe.edu.utp.Formulario.Login.FormLogin' is not an enclosing class" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="El error &quot;'pe.edu.utp.Formulario.Login.FormLogin' is not an enclosing class&quot; ocurre cuando intentas hacer referencia a la clase contenedora (`FormLogin`) desde una clase anidada o un contexto estático donde no es accesible directamente.&#10;&#10;Para solucionar este error, tienes algunas opciones:&#10;&#10;1. Mueve la clase anidada a un archivo separado: Si la clase anidada no depende de la clase contenedora y puede existir de forma independiente, puedes moverla a su propio archivo separado. De esta manera, puedes acceder a ella sin necesidad de la clase contenedora.&#10;&#10;2. Haz que la clase anidada sea estática: Si la clase anidada no necesita acceder a las variables de instancia o métodos de la clase contenedora, puedes hacerla una clase anidada estática. Esto te permite acceder a ella sin necesidad de una instancia de la clase contenedora. Aquí tienes un ejemplo:&#10;&#10;   ```java&#10;   public class FormLogin {&#10;       // ...&#10;&#10;       public static class NestedClass {&#10;           // ...&#10;       }&#10;   }&#10;   ```&#10;&#10;   Al hacer que la clase anidada sea estática, puedes acceder a ella utilizando `FormLogin.NestedClass` sin necesidad de una instancia de `FormLogin`.&#10;&#10;3. Ajusta la lógica del código: Si la clase anidada necesita acceder a las variables de instancia o métodos de la clase contenedora, es posible que debas reconsiderar la lógica del código. Determina si la clase anidada debe ser una clase separada o si se puede refactorizar para evitar la necesidad de acceder a la clase contenedora.&#10;&#10;Elige la opción que mejor se adapte a tus necesidades y ajusta tu código en consecuencia para solucionar el error." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695012353555" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="b97d20">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/RoundedTextField.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+              <option name="id" value="b97d20" />
+              <option name="initiateTms" value="1695019166194" />
+              <option name="request" value="How to fix the following error:&#10;'getSize(java.awt.Dimension)' in 'java.awt.Component' cannot be applied to '(int)'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;'getSize(java.awt.Dimension)' in 'java.awt.Component' cannot be applied to '(int)'&quot; occurs when you try to call the `getSize()` method on a component with an `int` argument, but the `getSize()` method expects a `Dimension` argument.&#10;&#10;To fix this error, you need to provide a `Dimension` object as an argument to the `getSize()` method. Here's how you can do it:&#10;&#10;1. Create a `Dimension` object with the desired width and height values:&#10;&#10;   ```java&#10;   Dimension size = new Dimension(width, height);&#10;   ```&#10;&#10;   Replace `width` and `height` with the actual values you want to use.&#10;&#10;2. Pass the `Dimension` object as an argument to the `getSize()` method:&#10;&#10;   ```java&#10;   component.getSize(size);&#10;   ```&#10;&#10;   Replace `component` with the actual component you are working with.&#10;&#10;By providing a `Dimension` object as an argument, you can fix the error and correctly call the `getSize()` method on the component." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695019170761" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/RoundedTextField.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="bc0522">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="bc0522" />
+              <option name="initiateTms" value="1694984180821" />
+              <option name="request" value="ene spañol" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="El error &quot;Se esperaba una expresión&quot; ocurre típicamente cuando hay una expresión faltante o incompleta en tu código. Para solucionar este error, debes identificar la línea donde ocurre el error y asegurarte de que contenga una expresión válida.&#10;&#10;Aquí tienes algunos escenarios comunes y cómo solucionarlos:&#10;&#10;1. Falta un punto y coma: Verifica si falta un punto y coma al final de una instrucción. En Java, las instrucciones suelen terminar con un punto y coma. Agrega un punto y coma al final de la línea donde ocurre el error.&#10;&#10;2. Instrucción incompleta: Verifica si una instrucción está incompleta, como una llamada de método faltante o una asignación incompleta. Asegúrate de que la instrucción esté completa y contenga todos los componentes necesarios.&#10;&#10;3. Sintaxis incorrecta: Verifica si hay errores de sintaxis en la línea donde ocurre el error. Revisa las reglas de sintaxis del lenguaje de programación y asegúrate de que la línea siga la sintaxis correcta.&#10;&#10;Si proporcionas la línea de código específica donde ocurre el error, puedo brindarte una orientación más específica sobre cómo solucionarlo." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694984189042" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="c2e6f4">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="c2e6f4" />
+              <option name="initiateTms" value="1694983500739" />
+              <option name="request" value="How to fix the following error:&#10;Package 'pe.edu.utp.Formulario.Principal' clashes with class of same name" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Package 'pe.edu.utp.Formulario.Principal' clashes with class of same name&quot; occurs when there is a conflict between a package name and a class name in your code. To fix this error, you need to rename either the package or the class to resolve the naming conflict.&#10;&#10;Here are the steps to fix the error:&#10;&#10;1. Identify whether the package name or the class name needs to be changed. Consider the purpose and naming conventions of your code to determine which one should be modified.&#10;&#10;2. If you decide to rename the package, you need to update the package declaration at the top of the Java file. For example, if you want to rename the package from `pe.edu.utp.Formulario.Principal` to `pe.edu.utp.formulario.principal`, you would modify the package declaration as follows:&#10;&#10;   ```java&#10;   package pe.edu.utp.formulario.principal;&#10;   ```&#10;&#10;3. If you decide to rename the class, you need to update the class name throughout your code. This includes the class declaration, constructor, method references, and any other references to the class. For example, if you want to rename the class from `FromPrincipal` to `PrincipalForm`, you would modify the class declaration as follows:&#10;&#10;   ```java&#10;   public class PrincipalForm {&#10;     // ...&#10;   }&#10;   ```&#10;&#10;4. After making the necessary changes, recompile your code to ensure that the error has been resolved.&#10;&#10;Remember to update any references to the modified package or class name in other parts of your code to avoid further conflicts." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694983509956" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="c68be3">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="c68be3" />
+              <option name="initiateTms" value="1693814915557" />
+              <option name="request" value="bg.add(Contraseña, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 330, 330, -1));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(Contraseña, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 330, 330, -1));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;Contraseña.setBounds(40, 330, 330, Contraseña.getPreferredSize().height);&#10;bg.add(Contraseña);&#10;```&#10;&#10;Esto establecerá los límites del componente `Contraseña` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Además, se utiliza `getPreferredSize().height` para obtener la altura preferida del componente `Contraseña` y establecerla correctamente en los límites. Luego, puedes agregar el componente `Contraseña` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814922985" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="cc7ccc">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="cc7ccc" />
+              <option name="initiateTms" value="1693814777429" />
+              <option name="request" value="bg.add(dirigido, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 200, 80, -1));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(dirigido, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 200, 80, -1));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;dirigido.setBounds(110, 200, 80, dirigido.getPreferredSize().height);&#10;bg.add(dirigido);&#10;```&#10;&#10;Esto establecerá los límites del componente `dirigido` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Además, se utiliza `getPreferredSize().height` para obtener la altura preferida del componente `dirigido` y establecerla correctamente en los límites. Luego, puedes agregar el componente `dirigido` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814785658" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="d0e150">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="d0e150" />
+              <option name="initiateTms" value="1694984132306" />
+              <option name="request" value="How to fix the following error:&#10;Cannot resolve symbol 'SwingUtilities'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Cannot resolve symbol 'SwingUtilities'&quot; typically occurs when the `SwingUtilities` class is not imported or when there is an issue with the Java SDK configuration in your project. To fix this error, you can follow these steps:&#10;&#10;1. Import the `SwingUtilities` class: Make sure you have the following import statement at the top of your Java file where you are using `SwingUtilities`:&#10;&#10;   ```java&#10;   import javax.swing.SwingUtilities;&#10;   ```&#10;&#10;   If the import statement is missing, add it to resolve the &quot;Cannot resolve symbol 'SwingUtilities'&quot; error.&#10;&#10;2. Check Java SDK configuration: Ensure that your project is configured with the correct Java SDK. To do this, go to &quot;File&quot; -&gt; &quot;Project Structure&quot; -&gt; &quot;Project&quot; in IntelliJ IDEA. Under the &quot;Project SDK&quot; dropdown, select the appropriate Java SDK version that includes the `SwingUtilities` class. If the correct SDK is not listed, you may need to configure it by clicking on the &quot;New&quot; button and selecting the Java SDK installation directory.&#10;&#10;3. Rebuild the project: After making any changes, rebuild your project to ensure that the changes are applied and the error is resolved. You can do this by selecting &quot;Build&quot; -&gt; &quot;Rebuild Project&quot; in IntelliJ IDEA.&#10;&#10;By importing the `SwingUtilities` class and ensuring the correct Java SDK configuration, you should be able to resolve the &quot;Cannot resolve symbol 'SwingUtilities'&quot; error." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694984139090" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="d1e370">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Encryptacion/FormEcryptacion.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/validadorLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                </list>
+              </option>
+              <option name="id" value="d1e370" />
+              <option name="initiateTms" value="1695161308295" />
+              <option name="request" value="How to fix the following error:&#10;Cannot resolve method 'setResizable' in 'JPanel'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Cannot resolve method 'setResizable' in 'JPanel'&quot; occurs because the `setResizable()` method is not a valid method for the `JPanel` class. The `setResizable()` method is typically used with `JFrame` to control whether the frame can be resized by the user.&#10;&#10;To fix this error, you can remove the `setResizable()` method call from the `JPanel` object and instead apply it to the `JFrame` object. Here's an example:&#10;&#10;```java&#10;public class FromPrincipal extends JFrame {&#10;&#10;    public FromPrincipal() {&#10;        // ...&#10;&#10;        setResizable(true); // Set the frame to be resizable&#10;&#10;        // ...&#10;    }&#10;&#10;    // ...&#10;}&#10;```&#10;&#10;In this example, the `setResizable()` method is called on the `JFrame` object (`FromPrincipal`) instead of the `JPanel` object (`formPanel`). This will allow the frame to be resizable by the user.&#10;&#10;Remember to adjust the code accordingly based on your specific requirements and the structure of your application." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695161317015" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Encryptacion/FormEcryptacion.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/validadorLogin.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="ddc5db">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="ddc5db" />
+              <option name="initiateTms" value="1694984108004" />
+              <option name="request" value="How to fix the following error:&#10;Cannot resolve symbol 'JFrame'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Cannot resolve symbol 'JFrame'&quot; typically occurs when the `JFrame` class is not imported or when there is an issue with the Java SDK configuration in your project. To fix this error, you can follow these steps:&#10;&#10;1. Import the `JFrame` class: Make sure you have the following import statement at the top of your Java file where you are using `JFrame`:&#10;&#10;   ```java&#10;   import javax.swing.JFrame;&#10;   ```&#10;&#10;   If the import statement is missing, add it to resolve the &quot;Cannot resolve symbol 'JFrame'&quot; error.&#10;&#10;2. Check Java SDK configuration: Ensure that your project is configured with the correct Java SDK. To do this, go to &quot;File&quot; -&gt; &quot;Project Structure&quot; -&gt; &quot;Project&quot; in IntelliJ IDEA. Under the &quot;Project SDK&quot; dropdown, select the appropriate Java SDK version that includes the `JFrame` class. If the correct SDK is not listed, you may need to configure it by clicking on the &quot;New&quot; button and selecting the Java SDK installation directory.&#10;&#10;3. Rebuild the project: After making any changes, rebuild your project to ensure that the changes are applied and the error is resolved. You can do this by selecting &quot;Build&quot; -&gt; &quot;Rebuild Project&quot; in IntelliJ IDEA.&#10;&#10;By importing the `JFrame` class and ensuring the correct Java SDK configuration, you should be able to resolve the &quot;Cannot resolve symbol 'JFrame'&quot; error." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694984118273" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="e5269e">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                </list>
+              </option>
+              <option name="id" value="e5269e" />
+              <option name="initiateTms" value="1694984664382" />
+              <option name="request" value="How to fix the following error:&#10;'pe.edu.utp.Formulario.validador.this' cannot be referenced from a static context. Unexpected token. " />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;'pe.edu.utp.Formulario.validador.this' cannot be referenced from a static context. Unexpected token&quot; occurs when you try to reference the instance of the enclosing class (`validador`) from a static context (such as a static method). &#10;&#10;To fix this error, you have a few options:&#10;&#10;1. Make the method non-static: If it makes sense in the context of your code, you can change the method that is causing the error to be non-static. This allows you to access the instance variables and methods of the enclosing class. However, keep in mind that this may require changes in other parts of your code that rely on the method being static.&#10;&#10;2. Create an instance of the enclosing class: If you need to access the instance variables or methods of the enclosing class from a static context, you can create an instance of the enclosing class within the static method. Here's an example:&#10;&#10;   ```java&#10;   public static boolean IngresarBtn(String texto1, String texto2) throws Exception {&#10;       validador validator = new validador(); // Create an instance of the enclosing class&#10;       // Now you can access instance variables and methods using 'validator'&#10;       // For example: validator.closeWindow();&#10;   }&#10;   ```&#10;&#10;   By creating an instance of the `validador` class, you can access its non-static members within the static method.&#10;&#10;3. Move the static method to a non-static inner class: If the static method needs to access the instance variables or methods of the enclosing class, you can consider moving the static method to a non-static inner class within the `validador` class. This allows the static method to access the instance members of the enclosing class directly.&#10;&#10;   ```java&#10;   public class validador {&#10;       // ...&#10;&#10;       public static class InnerClass {&#10;           public static boolean IngresarBtn(String texto1, String texto2) throws Exception {&#10;               // Now you can access instance variables and methods of the enclosing class directly&#10;               // For example: closeWindow();&#10;           }&#10;       }&#10;   }&#10;   ```&#10;&#10;   By moving the static method to a non-static inner class, you can access the instance members of the enclosing class without the need for an instance.&#10;&#10;Choose the option that best suits your requirements and adjust your code accordingly to fix the error." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694984678060" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="e84dd8">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="e84dd8" />
+              <option name="initiateTms" value="1693814685584" />
+              <option name="request" value="bg.add(Imagen, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 0, 370, 500)); y este?" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(Imagen, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 0, 370, 500));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;Imagen.setBounds(430, 0, 370, 500);&#10;bg.add(Imagen);&#10;```&#10;&#10;Esto establecerá los límites del componente `Imagen` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Luego, puedes agregar el componente `Imagen` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814691592" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="ea3e94">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+              <option name="id" value="ea3e94" />
+              <option name="initiateTms" value="1695024840456" />
+              <option name="request" value="no aparece la imagen" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Si la imagen no aparece después de haber corregido el código, puede haber varias razones por las cuales la imagen no se muestra correctamente. Aquí hay algunas posibles soluciones:&#10;&#10;1. Verifica la ubicación y el nombre del archivo de imagen: Asegúrate de que el archivo de imagen `logo_utp.png` esté ubicado en la ruta correcta y que el nombre del archivo esté escrito correctamente, incluyendo mayúsculas y minúsculas. Verifica que el archivo de imagen esté en el mismo directorio que la clase en la que estás llamando `getResource()`.&#10;&#10;2. Verifica que el archivo de imagen esté incluido en el proyecto: Asegúrate de que el archivo de imagen `logo_utp.png` esté incluido en el proyecto y que se copie en el directorio de salida durante el proceso de compilación. Puedes verificar esto navegando a la ubicación del archivo en tu proyecto y asegurándote de que esté marcado como un recurso o archivo de origen.&#10;&#10;3. Verifica que el tamaño de la etiqueta `imagen` sea suficiente para mostrar la imagen: Asegúrate de que la etiqueta `imagen` tenga un tamaño adecuado para mostrar la imagen. Puedes ajustar el tamaño de la etiqueta utilizando métodos como `setPreferredSize()` o `setSize()`.&#10;&#10;4. Verifica que el panel o contenedor que contiene la etiqueta `imagen` esté correctamente configurado: Asegúrate de que el panel o contenedor que contiene la etiqueta `imagen` esté correctamente configurado y se muestre correctamente en la interfaz de usuario. Verifica que el panel esté agregado al contenedor principal y que el contenedor principal esté correctamente configurado y visible.&#10;&#10;5. Verifica que la ruta al archivo de imagen sea correcta: Si el archivo de imagen está en un directorio diferente al de la clase en la que estás llamando `getResource()`, asegúrate de proporcionar la ruta correcta al archivo de imagen. Puedes utilizar rutas relativas o absolutas según sea necesario.&#10;&#10;Si después de verificar estas posibles soluciones la imagen aún no aparece, sería útil proporcionar más detalles sobre la estructura de tu proyecto y cómo estás utilizando el código para que pueda brindarte una solución más específica." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695024853778" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="f0329e">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="f0329e" />
+              <option name="initiateTms" value="1693814977102" />
+              <option name="request" value="bg.add(btnINGRESAR, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 420, 110, 40));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(btnINGRESAR, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 420, 110, 40));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;btnINGRESAR.setBounds(160, 420, 110, 40);&#10;bg.add(btnINGRESAR);&#10;```&#10;&#10;Esto establecerá los límites del componente `btnINGRESAR` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Luego, puedes agregar el componente `btnINGRESAR` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814984357" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="f9a585">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+              <option name="id" value="f9a585" />
+              <option name="initiateTms" value="1694985384969" />
+              <option name="request" value="How to fix the following error:&#10;'getWindowAncestor(java.awt.Component)' in 'javax.swing.SwingUtilities' cannot be applied to '(pe.edu.utp.Formulario.Login.FormLogin)'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;'getWindowAncestor(java.awt.Component)' in 'javax.swing.SwingUtilities' cannot be applied to '(pe.edu.utp.Formulario.Login.FormLogin)'&quot; occurs when you try to pass an instance of `FormLogin` to the `SwingUtilities.getWindowAncestor()` method, but it expects an argument of type `java.awt.Component`.&#10;&#10;To fix this error, you can modify your code as follows:&#10;&#10;1. Make `FormLogin` extend `JFrame`: If `FormLogin` is intended to be a window or frame, you can make it extend the `JFrame` class. This way, it becomes a subclass of `java.awt.Component`, and you can pass an instance of `FormLogin` to `SwingUtilities.getWindowAncestor()`.&#10;&#10;   ```java&#10;   public class FormLogin extends JFrame {&#10;       // ...&#10;   }&#10;   ```&#10;&#10;2. Pass the appropriate component to `SwingUtilities.getWindowAncestor()`: If `FormLogin` is not a window or frame, but you have a specific component within `FormLogin` that you want to use as the argument for `SwingUtilities.getWindowAncestor()`, you can pass that component instead.&#10;&#10;   For example, if you have a `JPanel` named `panel` within `FormLogin` and you want to get the ancestor window of that panel, you can modify the code as follows:&#10;&#10;   ```java&#10;   JFrame frame = (JFrame) SwingUtilities.getWindowAncestor(panel);&#10;   frame.dispose();&#10;   ```&#10;&#10;   Replace `panel` with the actual component you want to use.&#10;&#10;By making one of these modifications, you should be able to fix the error and use `SwingUtilities.getWindowAncestor()` correctly." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694985392436" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/validador.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Login/FormLogin.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/utils/SwingUTP.java" />
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/Formulario/Principal/FromPrincipal.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="fdab96">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+              <option name="id" value="fdab96" />
+              <option name="initiateTms" value="1693814731800" />
+              <option name="request" value="bg.add(IniciarSesión, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 140, 190, -1));" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para arreglar la línea:&#10;&#10;```java&#10;bg.add(IniciarSesión, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 140, 190, -1));&#10;```&#10;&#10;puedes reemplazarla con:&#10;&#10;```java&#10;IniciarSesión.setBounds(130, 140, 190, IniciarSesión.getPreferredSize().height);&#10;bg.add(IniciarSesión);&#10;```&#10;&#10;Esto establecerá los límites del componente `IniciarSesión` utilizando el método `setBounds()` en lugar de `new org.netbeans.lib.awtextra.AbsoluteConstraints()`. Además, se utiliza `getPreferredSize().height` para obtener la altura preferida del componente `IniciarSesión` y establecerla correctamente en los límites. Luego, puedes agregar el componente `IniciarSesión` al panel `bg` utilizando el método `add()`." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1693814742353" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/main/java/pe/edu/utp/login.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

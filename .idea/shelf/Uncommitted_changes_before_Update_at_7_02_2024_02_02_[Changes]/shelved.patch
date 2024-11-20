@@ -1,0 +1,68 @@
+Index: src/main/java/pe/edu/utp/Formulario/Conect_BD.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package pe.edu.utp.Formulario;\r\n\r\nimport java.sql.*;\r\n\r\n\r\n// Esta clase encapsula la lógica para establecer la conexión\r\n// con la base de datos y resetear la secuencia.\r\n\r\npublic class Conect_BD {\r\n\r\n    private static final String URL = \"jdbc:sqlserver://DESKTOP-0KNDPJE:1433;database=Tienda;user=Juanpi;password=8282004;TrustServerCertificate=true;\";\r\n\r\n    public static Connection con;\r\n\r\n    public Conect_BD() {\r\n\r\n        try {\r\n            // Establecer la conexión con la base de datos\r\n            Class.forName(\"com.microsoft.sqlserver.jdbc.SQLServerDriver\");\r\n            con = DriverManager.getConnection(URL);\r\n            System.out.println(\"Conectado a la base de datos\");\r\n\r\n            /* Ejecutar la consulta para resetear la secuencia\r\n            String resetQuery = \"DBCC CHECKIDENT(Producto, RESEED, 0)\";\r\n            Statement resetStatement = con.createStatement();\r\n            resetStatement.executeUpdate(resetQuery);\r\n\r\n            // Cerrar el statement después de usarlo\r\n            resetStatement.close();*/\r\n\r\n        } catch (SQLException e) {\r\n            e.printStackTrace();\r\n            // Manejo de errores de conexión aquí\r\n        } catch (ClassNotFoundException e) {\r\n            throw new RuntimeException(e);\r\n        }\r\n\r\n    }\r\n\r\n    public Connection getConnection() {\r\n        return con;\r\n    }\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/main/java/pe/edu/utp/Formulario/Conect_BD.java b/src/main/java/pe/edu/utp/Formulario/Conect_BD.java
+--- a/src/main/java/pe/edu/utp/Formulario/Conect_BD.java	
++++ b/src/main/java/pe/edu/utp/Formulario/Conect_BD.java	
+@@ -8,7 +8,7 @@
+ 
+ public class Conect_BD {
+ 
+-    private static final String URL = "jdbc:sqlserver://DESKTOP-0KNDPJE:1433;database=Tienda;user=Juanpi;password=8282004;TrustServerCertificate=true;";
++    private static final String URL = "jdbc:sqlserver://DESKTOP-RJVTR46:1433;database=Tienda;user=Juanpi;password=8282004;TrustServerCertificate=true;";
+ 
+     public static Connection con;
+ 
+Index: src/main/resources/TXT/Vendido.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>2023/12//01 13:01:50 - INFO - Vendedor: Sanandres Vela, Juanpi; Codigo: 8920; Nombre: Laptop; Cantidad: 2, Precio: 3000.00, Proveedor: ACER\r\n\r\n2023/12//01 13:01:50 - INFO - Vendedor: Sanandres Vela, Juanpi; Codigo: 8769; Nombre: HDD 2TB; Cantidad: 1, Precio: 240.00, Proveedor: Wenster Digital\r\n\r\n
+===================================================================
+diff --git a/src/main/resources/TXT/Vendido.txt b/src/main/resources/TXT/Vendido.txt
+--- a/src/main/resources/TXT/Vendido.txt	
++++ b/src/main/resources/TXT/Vendido.txt	
+@@ -2,3 +2,5 @@
+ 
+ 2023/12//01 13:01:50 - INFO - Vendedor: Sanandres Vela, Juanpi; Codigo: 8769; Nombre: HDD 2TB; Cantidad: 1, Precio: 240.00, Proveedor: Wenster Digital
+ 
++2024/01//03 12:00:08 - INFO - Vendedor: Sanandres Vela, Juanpi; Codigo: 8920; Nombre: Laptop; Cantidad: 2, Precio: 3000.00, Proveedor: ACER
++
+Index: src/main/resources/TXT/Boleta.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>2023/12//01 13:01:50 - VENTA - \r\n-------------------------------------------------------\r\n------------------- Boleta de Compra ------------------\r\n-------------------------------------------------------\r\n- Cliente: Vasquez Martinez, Vicente\r\n- DNI: 32457698\r\n- Fecha: 01/12/2023 13:01:50\r\n-\r\n- Descuento: Se aplica el 30% de descuento\r\n-------------------------------------------------------\r\n- Detalles de Compra:\r\n-\r\n- Codigo   Nombre                Cantidad      Precio\r\n- 8920     Laptop ACER            2             3000.00\r\n- 8769     HDD 2TB Wenster Digital   1             240.00\r\n-\r\n-------------------------------------------------------\r\n- Total a pagar: S/. 4368.00\r\n-\r\n- Vendedor: Sanandres Vela, Juanpi\r\n-------------------------------------------------------\r\n-\r\n-                 GRACIAS POR SU COMPRA!\r\n-\r\n-------------------------------------------------------\r\n\r\n
+===================================================================
+diff --git a/src/main/resources/TXT/Boleta.txt b/src/main/resources/TXT/Boleta.txt
+--- a/src/main/resources/TXT/Boleta.txt	
++++ b/src/main/resources/TXT/Boleta.txt	
+@@ -24,3 +24,28 @@
+ -
+ -------------------------------------------------------
+ 
++2024/01//03 12:00:08 - VENTA - 
++-------------------------------------------------------
++------------------- Boleta de Compra ------------------
++-------------------------------------------------------
++- Cliente: Sanandres Ventura, Dylan Matias
++- DNI: 78545623
++- Fecha: 03/01/2024 12:00:08
++-
++- Descuento: Se aplica el 30% de descuento
++-------------------------------------------------------
++- Detalles de Compra:
++-
++- Codigo   Nombre                Cantidad      Precio
++- 8920     Laptop ACER            2             3000.00
++-
++-------------------------------------------------------
++- Total a pagar: S/. 4200.00
++-
++- Vendedor: Sanandres Vela, Juanpi
++-------------------------------------------------------
++-
++-                 GRACIAS POR SU COMPRA!
++-
++-------------------------------------------------------
++
